@@ -1,0 +1,21 @@
+.calendar{
+   /*  height: 42px;
+    width: 158px; */
+    display: flex;
+    margin: 0;
+}
+
+.calendar__day-icon{
+    height: 32px;
+    width: 34px;
+    margin-top: 66px;
+    margin-left: 60px;
+    margin-right: 26px;
+}
+
+.calendar__day-weeks{
+    font-size: 36px;
+    margin: 0;
+    margin-top: 60px;
+}
+
